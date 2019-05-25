@@ -1,4 +1,4 @@
 # Balls
-*by ~ Dishant Varshney*
+*by Dishant Varshney*
 
 Bouncing Balls (with p5.js)
